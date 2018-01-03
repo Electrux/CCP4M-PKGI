@@ -10,8 +10,6 @@ Deps =
 
 LibraryFlags = -lsfml-graphics, -lsfml-window, -lsfml-system, -lsfml-network
 
-ExistsAs = Library:libsfml-system.so:libsfml-system.dylib
-
 [Source]
 
 URL = https://github.com/SFML/SFML/archive/
