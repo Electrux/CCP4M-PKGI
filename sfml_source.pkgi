@@ -13,8 +13,6 @@ LibraryFlags = -lsfml-graphics, -lsfml-window, -lsfml-system, -lsfml-network
 [Source]
 
 URL = https://github.com/SFML/SFML/archive/
-
-LinuxFile = 2.4.2.tar.gz
-MacFile = 2.4.2.tar.gz
+File = 2.4.2.tar.gz
 
 BuildMode = cmake
