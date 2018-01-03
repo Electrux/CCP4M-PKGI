@@ -12,7 +12,7 @@ LibraryFlags = -lsfml-graphics, -lsfml-window, -lsfml-system, -lsfml-network
 
 [Source]
 
-URL = https://github.com/SFML/SFML/archive/
-File = 2.4.2.tar.gz
+URL = https://codeload.github.com/SFML/SFML/tar.gz/
+File = 2.4.2
 
 BuildMode = cmake
