@@ -16,3 +16,4 @@ URL = https://curl.haxx.se/download/
 File = curl-7.57.0.tar.gz
 
 BuildMode = configure
+CleanupDirectories = include/curl

@@ -16,3 +16,4 @@ URL = http://www.openal-soft.org/openal-releases/
 File = openal-soft-1.18.2.tar.bz2
 
 BuildMode = cmake
+CleanupDirectories = lib64/cmake/OpenAL, include/AL, share/openal
