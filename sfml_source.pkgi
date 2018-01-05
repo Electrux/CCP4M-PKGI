@@ -1,7 +1,7 @@
 [Core]
 
-Name = sfml
-Description = "SFML multi purpose multimedia C++ library"
+Name = sfml_source
+Description = "SFML multi purpose multimedia C++ library, built from source"
 Lang = cpp
 Type = Source
 
