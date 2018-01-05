@@ -10,7 +10,6 @@ Deps =
 
 LibraryFlags = -lsfml-graphics, -lsfml-window, -lsfml-system, -lsfml-network
 
-
 [Binary]
 
 URL = http://mirror3.sfml-dev.org/files/
