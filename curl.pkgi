@@ -10,7 +10,6 @@ Deps =
 
 LibraryFlags = -lcurl
 
-
 [Source]
 
 URL = https://curl.haxx.se/download/
