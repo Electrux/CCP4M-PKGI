@@ -5,7 +5,7 @@ Description = "SFML multi purpose multimedia C++ library"
 Lang = cpp
 Type = Binary
 
-Version = 2.3.2
+Version = 2.4.2
 Deps = 
 
 LibraryFlags = -lsfml-graphics, -lsfml-window, -lsfml-system, -lsfml-network
@@ -14,5 +14,5 @@ LibraryFlags = -lsfml-graphics, -lsfml-window, -lsfml-system, -lsfml-network
 
 URL = http://mirror3.sfml-dev.org/files/
 
-LinuxFile = SFML-2.3.2-linux-gcc-64-bit.tar.gz
-MacFile = SFML-2.3.2-osx-clang.tar.gz
+LinuxFile = SFML-2.4.2-linux-gcc-64-bit.tar.gz
+MacFile = SFML-2.4.2-osx-clang.tar.gz
