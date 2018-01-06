@@ -16,3 +16,5 @@ URL = https://www.libsdl.org/release/
 File = SDL2-2.0.7.tar.gz
 
 BuildMode = cmake
+
+CleanupDirectories = include/SDL2, lib/cmake/SDL2
