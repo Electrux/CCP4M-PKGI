@@ -1,0 +1,18 @@
+[Core]
+
+Name = sdl
+Description = "SDL graphics library for C language"
+Lang = c
+Type = Source
+
+Version = 2.0.7
+Deps = 
+
+LibraryFlags = -lsdl
+
+[Source]
+
+URL = https://www.libsdl.org/release/
+File = SDL2-2.0.7.tar.gz
+
+BuildMode = cmake
